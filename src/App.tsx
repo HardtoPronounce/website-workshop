@@ -53,6 +53,7 @@ function App() {
   return (
     <>
       <h1>David Petcu</h1>
+      <h1>Nitu Daniel</h1>
       <div>
         <button onClick={handleClick} style={{backgroundColor: color}}>
           Buton fundal verde
